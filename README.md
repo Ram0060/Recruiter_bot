@@ -70,8 +70,8 @@ python main.py
 - `fpdf`
 - `python-dotenv`
 - `mistralai`
-- `platform` *(standard library)*
-- `tempfile` *(standard library)*
+- `platform` 
+- `tempfile` 
 
 ✅ All dependencies are listed in `requirements.txt`
 
