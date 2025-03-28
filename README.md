@@ -5,27 +5,6 @@ An intelligent, voice-based AI recruiter powered by Mistral LLM, Fast Whisper ST
 
 ## 📁 Project Structure
 
-AGENTIC_RECRUITER/
-│
-├── data/
-│   ├── job_description.txt         # Sample job description
-│   └── sample_resume.txt           # Sample resume (plain text)
-│
-├── main.py                         # Entry point — runs the full voice interview flow
-├── agent_logic.py                  # Evaluates answers, scores them, suggests follow-ups
-├── interview_questions.py          # Generates custom questions using Mistral
-├── jd_parser.py                    # Extracts skills & requirements from the job description
-├── resume_parser.py                # Loads resume text from a .txt file
-├── summary_logic.py                # Summarizes each candidate answer
-├── report_utils.py                 # Generates final PDF report
-├── response_safety.py              # Detects short/empty/uncertain answers
-├── voice_interface.py              # Handles speech-to-text and text-to-speech
-├── zoom_interface.py               # Simulated Zoom scheduling/joining
-├── requirements.txt                # All required Python dependencies
-├── interview_report.pdf            # Sample output (generated)
-├── .env                            # Environment variables (e.g., MISTRAL_API_KEY)
-└── README.md                       # You're reading it 🙂
-
 
 ## 🚀 Features
 
