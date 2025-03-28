@@ -1,0 +1,52 @@
+job Description
+
+The Data Scientist II is responsible for collecting data and using wide range of data science techniques, including but not limited to data wrangling, profiling and visualization, statistical inference, to uncover actionable insights or build analytics solutions that guide decision making and strategic planning.
+
+Department And Role Overview
+
+The US Financial Crime Risk Modeling & Advanced Analytics team within US Financial Crime department is responsible for developing, maintaining, and enhancing the Enterprise Anti-Money Laundering / Counter-Terrorism Financing (AML/CTF) models/AI solutions to comply with regulatory requirements/changes and internal policies, support TD's global AML/CTF strategies, address emerging risks, and be in accordance with best industry practice.
+
+We are seeking data scientists at various levels to join us to innovate, drive, and support initiatives and business as usual operations in multiple functional areas including, but not limited to, customer rating, sanctions screening, transaction monitoring, emerging risk, model performance monitoring, analytics and reporting.
+
+Depth & Scope
+
+Works autonomously within a specialized business management function and may provide work direction to others
+Provides seasoned specialized knowledge, advice and/or guidance to various stakeholders and team members
+Scope of role may have enterprise impact
+Focuses on short to medium - term issues (e.g. 6-12 months)
+Undertakes and completes a variety of complex projects and initiatives requiring specialist knowledge and/or the integration of cross functional processes within own area of expertise
+Oversees and/or independently performs tasks from end-to-end
+
+Education & Experience
+
+Undergraduate degree or advanced technical degree preferred (e.g., math, physics, engineering, finance or computer science) Graduate's degree preferred with either progressive project work experience, or;
+3+ year of relevant experience; higher degree education and research tenure can be counted
+
+Preferred Skills
+
+ Exceptional candidates with master's degree and relevant (including academic) experience will be considered.
+ Proficient with Python or equivalent programming language and SQL
+ Experience in Financial Crimes / Compliance Risk Analytics in areas of Sanctions Screening, Transaction Monitoring & Customer Due-Diligence
+ Experience in optimization / tuning of AML/CTF solutions
+ Experience with NetReveal, Quantifind, FIRCO or similar products is a plus
+
+Customer Accountabilities
+
+Understands business context and data infrastructure and translates business problems to viable data science solutions
+Uses a wide range of programing languages (e.g. Python) and techniques for extracting and preparing data, applying statistics and various advanced analytics, along with business acumen to extract insights from the big data
+Visualizes insights from the data to tell and illustrate stories that clearly convey the meaning of results to decision-makers and stakeholders at every level of technical understanding
+Collaborates with other partners, such as data and business analysts, software engineers, data engineers, and application developers to develop scalable and sustainable data science solutions that retains long term benefit to the business
+
+
+
+Employee/Team Accountabilities
+
+Participates fully as a member of the team, supports a positive work environment that promotes service to the business, quality, innovation and teamwork and ensures timely communication of issues/points of interest
+Provides thought leadership and/or industry knowledge for own area of expertise in own area and participates in knowledge transfer within the team and business unit
+Keeps current on emerging trends/developments and grows knowledge of the business, related tools and techniques
+Participates in personal performance management and development activities, including cross training within own team
+Keeps others informed and up to date about the status/progress of projects and/or all relevant or useful information related to day-to-day activities
+Contributes to team development of skills and capabilities through mentorship of others, by sharing knowledge and experiences and leveraging best practices
+Leads, motivates and develops relationships with internal and external business partners/stakeholders to develop productive working relationships
+Contributes to a fair, positive and equitable environment that supports a diverse workforce
+Acts as a brand ambassador for your business area/function and the bank, both internally and/or externally 

@@ -1,0 +1,66 @@
+Ram Ammula  
+Machine Learning Engineer with Python, SQL, and advanced analytics expertise, specializing in developing scalable AI solutions and deploying ML models in production environments.
+
+Contact:  
+Email: ramdrexel02@gmail.com  
+Phone: +1 445-256-3077  
+LinkedIn: linkedin.com/in/raghu-ram-sai-ammula-a20860326
+
+---
+
+WORK EXPERIENCE
+
+🔹 Data Analyst – VAZHRAA NIRMANN.PVT.LTD  
+India | March 2022 – May 2023  
+• Collaborated with cross-functional teams to optimize business strategies, solve complex issues, and enhance ROI through advanced data analysis using Python (Pandas, Scikit-learn) and SQL.  
+• Designed and implemented scalable financial analysis dashboards, delivering actionable insights.  
+• Developed predictive models using regression, neural networks, and ML to address consumer demand.  
+• Conducted cost-benefit and fraud detection analysis to improve procurement strategies.  
+• Enhanced digital marketing and finance forecasting solutions.
+
+🔹 Data Analyst Intern – VAZHRAA NIRMANN.PVT.LTD  
+India | May 2021 – March 2022  
+
+Customer Sentiment Analysis with AI-based NLP  
+• Built a deep learning sentiment analysis model using TensorFlow and Keras.  
+• Focused on market trends and user feedback analysis to refine product strategy.
+
+Fraud Detection System Using AI  
+• Developed fraud detection models using data mining and statistical techniques.  
+• Implemented anomaly detection in large datasets.  
+• Designed data pipelines to automate the fraud detection process.
+
+---
+
+SKILLS
+
+• Programming: Python, SQL, C, Java, C++  
+• ML & DS: Regression, Neural Networks, Gradient Boosting, NLP, TensorFlow, PyTorch  
+• Tools: Tableau, Excel, SQL Server, PostgreSQL, Git, Jenkins, Docker, Kubernetes  
+• Other: Fraud Detection, ROI Analysis, CI/CD, Containerization, Scalable ML Systems  
+• Soft Skills: Problem-solving, collaboration, strategy, communication, innovation
+
+---
+
+EDUCATION
+
+🎓 Drexel University — Master of Science in Business Analytics with Artificial intelligence 
+Philadelphia, PA | Sept 2023 – Present  
+• Focus on AI, machine learning, and data-driven solutions to optimize business strategies.  
+• Led EDA, SQL pipelines, and collaborated on fraud detection models.  
+• Designed CI/CD pipelines for model deployment with Jenkins and Git.
+
+---
+
+PROJECTS
+
+📌 ML Model for Predicting Optimal Broadband Plans  
+• Developed clustering and predictive models using Scikit-learn.  
+• Improved segmentation and real-time product recommendation via chatbot.  
+• Validated accuracy using SQL and Excel.
+
+📌 Deep Learning Model for Retail Sales Prediction  
+• Built a sales forecasting model with TensorFlow and Keras.  
+• Used Pandas and Matplotlib for EDA and feature engineering.  
+• Helped guide inventory and revenue strategy.
+

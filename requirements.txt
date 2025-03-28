@@ -1,0 +1,17 @@
+python-dotenv
+langchain
+mistralai==0.4.2
+faster-whisper
+gtts
+SpeechRecognition
+pyaudio
+requests
+torch
+groq
+langchain-groq
+faster-whisper
+fpdf==1.7.2
+numpy
+pdfplumber
+
+
