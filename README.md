@@ -1,4 +1,4 @@
-# 🤖 Agentic Recruiter Bot
+# 🤖 Agentic Recruiter Bot #
 
 An intelligent, voice-based AI recruiter powered by Mistral LLM, Fast Whisper STT, and gTTS TTS — designed to simulate job interviews, ask personalized questions, evaluate responses, and generate a professional interview report.
 
